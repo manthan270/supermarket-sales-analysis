@@ -24,7 +24,6 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on supermark
 
 - **Dataset:** Supermarket Sales Dataset
 - **Source:** [SUPER MARKET DATA.xlsx](./SUPER%20MARKET%20DATA.xlsx)
-- **Project brief:** [Supermarket Sales Analysis DA project (Google Doc)](https://docs.google.com/document/d/1DVCIE1WCNGpbBrVBIfEkqaN6Qw9lJkCS_p-P5zeQV7Q/edit?tab=t.0)
 - **Records:** 500 sales transactions
 - **Period:** January 2026 – July 2026
 - **Columns (13):**
