@@ -90,16 +90,9 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on supermark
    pip install -r requirements.txt
    ```
 
-3. **Run the analysis** (choose one):
-
-   **Option A — Jupyter Notebook:**
+3. **Run the analysis**:
    ```bash
    jupyter notebook SupermarketSalesAnalysis.ipynb
-   ```
-
-   **Option B — Python Script:**
-   ```bash
-   python SupermarketSalesAnalysis.py
    ```
 
 4. **View results:**
@@ -113,7 +106,6 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on supermark
 ```text
 PRO!/
 ├── SupermarketSalesAnalysis.ipynb           # Jupyter Notebook version (Main Code)
-├── SupermarketSalesAnalysis.py              # Python Script version
 ├── ProjectReport.docx                       # Project report document
 ├── requirements.txt                         # Python dependencies
 ├── README.md                                # This file
