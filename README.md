@@ -110,28 +110,15 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on supermark
 
 ## 📁 Project Structure
 
-```
+```text
 PRO!/
-├── SupermarketSalesAnalysis.py              # Main analysis script
-├── SupermarketSalesAnalysis.ipynb            # Jupyter Notebook version
+├── SupermarketSalesAnalysis.ipynb           # Jupyter Notebook version (Main Code)
+├── SupermarketSalesAnalysis.py              # Python Script version
 ├── ProjectReport.docx                       # Project report document
 ├── requirements.txt                         # Python dependencies
 ├── README.md                                # This file
 ├── SUPER MARKET DATA.xlsx                   # Source dataset
-├── Supermarket Sales Analysis DA project.docx  # Project brief
-└── charts/                                  # Generated visualizations
-    ├── 01_product_sales.png
-    ├── 02_product_avg_sales.png
-    ├── 03_branch_comparison.png
-    ├── 04_category_analysis.png
-    ├── 05_payment_analysis.png
-    ├── 06_customer_type_analysis.png
-    ├── 07_gender_analysis.png
-    ├── 08_rating_analysis.png
-    ├── 09_monthly_trend.png
-    ├── 10_day_of_week.png
-    ├── 11_correlation_heatmap.png
-    └── 12_branch_category_heatmap.png
+└── charts/                                  # Generated visualizations (12 charts)
 ```
 
 ---
