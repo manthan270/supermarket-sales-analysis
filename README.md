@@ -106,7 +106,7 @@ This project performs an end-to-end Exploratory Data Analysis (EDA) on supermark
 ```text
 PRO!/
 ├── SupermarketSalesAnalysis.ipynb           # Jupyter Notebook version (Main Code)
-├── ProjectReport.docx                       # Project report document
+├── Manthan_ProjectReport.docx               # Project report document
 ├── requirements.txt                         # Python dependencies
 ├── README.md                                # This file
 ├── SUPER MARKET DATA.xlsx                   # Source dataset
